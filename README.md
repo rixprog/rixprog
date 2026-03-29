@@ -74,7 +74,6 @@ class Riswan:
 
 <div align="center">
 
-<sub>currently obsessed with making AI agents that actually <em>do</em> things</sub>
 
 <br/><br/>
 
