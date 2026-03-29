@@ -60,23 +60,4 @@ class Riswan:
 
 ---
 
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rixprog&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&icon_color=aaaaaa&text_color=cccccc&hide_rank=true" height="140"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rixprog&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=cccccc&langs_count=5" height="140"/>
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0a0a0a&height=80&section=footer" width="100%"/>
-
-</div>
